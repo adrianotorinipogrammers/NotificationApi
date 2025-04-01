@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: notification-api
+  description: An Exemple of a notification API
+   annotations:
+     github.com/project-slug: adrianotorinipogrammers/NotificationApi
+spec:
+  type: service
+  owner: development
+  lifecycle: experimental
