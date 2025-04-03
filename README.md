@@ -1,20 +1,12 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Introduction
+Esta aplicação .NET é um projeto de demonstração para explorar diferentes padrões de notificação. O objetivo é fornecer exemplos práticos de como implementar notificações de forma eficaz em aplicações modernas.
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Siga estas instruções para configurar e executar a aplicação em seu ambiente local.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## 1. Pré-requisitos
+Antes de começar, certifique-se de ter instalado:
+- [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- Um banco de dados opcional, dependendo da implementação (por exemplo, SQL Server, PostgreSQL, etc.)
+- Um editor de código como [Visual Studio](https://visualstudio.microsoft.com/) ou [Visual Studio Code](https://code.visualstudio.com/)
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
