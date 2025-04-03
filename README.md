@@ -7,6 +7,5 @@ Siga estas instruções para configurar e executar a aplicação em seu ambiente
 ## 1. Pré-requisitos
 Antes de começar, certifique-se de ter instalado:
 - [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
-- Um banco de dados opcional, dependendo da implementação (por exemplo, SQL Server, PostgreSQL, etc.)
 - Um editor de código como [Visual Studio](https://visualstudio.microsoft.com/) ou [Visual Studio Code](https://code.visualstudio.com/)
 
